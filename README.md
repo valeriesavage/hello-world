@@ -1,2 +1,3 @@
 # hello-world
-my first repo
+
+write a bit about yourself.  I might want to learn emojicode. :) 
